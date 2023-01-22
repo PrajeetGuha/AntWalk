@@ -78,34 +78,38 @@ In fast forward merge, head of the master branch is the ancestor of the head of 
 ![Screenshot1](https://user-images.githubusercontent.com/58776463/213903624-92602a13-ef71-42de-89a7-6695de0ce069.png)
 
 **Repository initialized, file is added, staged and committed**
-![Screenshot (141)](https://user-images.githubusercontent.com/58776463/213903628-352d963f-500f-48bc-8ba2-8cc6ac82882f.png)
+![Screenshot2](https://user-images.githubusercontent.com/58776463/213903628-352d963f-500f-48bc-8ba2-8cc6ac82882f.png)
 
 **feature branch is created**
-![Screenshot (142)](https://user-images.githubusercontent.com/58776463/213903689-076427d0-726c-4295-9d1d-c4f1434c44b0.png)
+![Screenshot3](https://user-images.githubusercontent.com/58776463/213903689-076427d0-726c-4295-9d1d-c4f1434c44b0.png)
 
 **The file is edited**
-![Screenshot (143)](https://user-images.githubusercontent.com/58776463/213903656-6d1d0d67-d4fe-4b7a-8293-5ffcb69c4ecc.png)
+![Screenshot4](https://user-images.githubusercontent.com/58776463/213903656-6d1d0d67-d4fe-4b7a-8293-5ffcb69c4ecc.png)
 
 **Changes are staged and committed to the feature branch**
-![Screenshot (144)](https://user-images.githubusercontent.com/58776463/213903659-761f9fd1-f4b3-4d78-af55-36ca75e134a6.png)
+![Screenshot5](https://user-images.githubusercontent.com/58776463/213903659-761f9fd1-f4b3-4d78-af55-36ca75e134a6.png)
 
 **switched to master branch. File is changed**
-![Screenshot (145)](https://user-images.githubusercontent.com/58776463/213903668-d9c399c6-da4d-4f32-baef-7da6abe13856.png)
+![Screenshot6](https://user-images.githubusercontent.com/58776463/213903668-d9c399c6-da4d-4f32-baef-7da6abe13856.png)
 
 **Changes are staged and committed**
-![Screenshot (146)](https://user-images.githubusercontent.com/58776463/213903670-243b9c14-f69d-46e1-9dcd-8b3545db66d6.png)
+![Screenshot7](https://user-images.githubusercontent.com/58776463/213903670-243b9c14-f69d-46e1-9dcd-8b3545db66d6.png)
 
 **Feature branch merge is initiated**
-![Screenshot (147)](https://user-images.githubusercontent.com/58776463/213903672-f46fa2a2-0713-40cf-b6bf-8730dc4001d4.png)
+![Screenshot8](https://user-images.githubusercontent.com/58776463/213903672-f46fa2a2-0713-40cf-b6bf-8730dc4001d4.png)
 
 **Merge conflict. Moved to an intermediary stage where both changes are written to conflicting files**
-![Screenshot (148)](https://user-images.githubusercontent.com/58776463/213903674-d63ca208-7985-42c6-bb98-05cfe31f889f.png)
+![Screenshot9](https://user-images.githubusercontent.com/58776463/213903674-d63ca208-7985-42c6-bb98-05cfe31f889f.png)
 
 **conflicting file can be edited**
-![Screenshot (149)](https://user-images.githubusercontent.com/58776463/213903675-00926157-ddf4-484e-a469-a0fb478ea61b.png)
+![Screenshot10](https://user-images.githubusercontent.com/58776463/213903675-00926157-ddf4-484e-a469-a0fb478ea61b.png)
 
 **conflicting file is edited**
-![Screenshot (150)](https://user-images.githubusercontent.com/58776463/213903676-c439bfa2-f2f7-48fa-aba3-a1a4881835ce.png)
+![Screenshot11](https://user-images.githubusercontent.com/58776463/213903676-c439bfa2-f2f7-48fa-aba3-a1a4881835ce.png)
 
 **After resolving conflict, the file is committed and merge is successful**
-![Screenshot (151)](https://user-images.githubusercontent.com/58776463/213903677-93e48b88-58a5-4e9f-8784-3e87b2566a3b.png)
+![Screenshot12](https://user-images.githubusercontent.com/58776463/213903677-93e48b88-58a5-4e9f-8784-3e87b2566a3b.png)
+
+**Git log**
+![Screenshot13](https://user-images.githubusercontent.com/58776463/213903942-460adb3b-0ed2-4fb0-88c9-aa1a89fce224.png)
+
