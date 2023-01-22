@@ -1,4 +1,5 @@
-# Following are the screenshots of the implementation
+# Git Commands Assignment
+## Following are the screenshots of the implementation
 
 **The initial state of the directories and windows**
 ![Screenshot1](https://user-images.githubusercontent.com/58776463/213771325-58aab66b-3c7f-46ce-9eed-3f7b728ab461.png)
