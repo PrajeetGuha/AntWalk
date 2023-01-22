@@ -1,4 +1,5 @@
-# The project objectives were -
+# Assignment 2
+## The project objectives were -
 
 1. Add Customers class with atleast 5 attributes,2 methods
 2. Add Product class with atleast 5 attributes,2 methods
