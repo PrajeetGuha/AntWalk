@@ -1,4 +1,5 @@
-# Following are the screenshots of the implementations
+# Git Branching Assignment
+## Following are the screenshots of the implementations
 
 **The present directory**
 ![Screenshot1](https://user-images.githubusercontent.com/58776463/213845848-3c5c96ad-b592-46cf-a1a2-cace0e3b1dee.png)
