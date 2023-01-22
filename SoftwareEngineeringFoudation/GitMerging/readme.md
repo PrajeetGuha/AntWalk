@@ -1,4 +1,4 @@
-#Git Merging Assignment
+# Git Merging Assignment
 ## Fast Forward Merge
 
 In fast forward merge, head of the master branch is the ancestor of the head of the branch that will get merged to it.
