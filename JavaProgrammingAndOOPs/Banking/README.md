@@ -60,8 +60,7 @@ Account class has 2 subclasses.
 - SavingsAccount(with no minimum balance)
 
 **The workflow diagram is given below -**
-![workflow-diagram](https://user-images.githubusercontent.com/58776463/215280412-8a8d6bc1-e7a5-4dd5-b8e2-01df33933bd2.png)
-
+![workflow-diagram](https://user-images.githubusercontent.com/58776463/215281862-5dc2994a-2819-49da-ada4-ee9a38d20d70.png)
 
 **Output in the terminal -**
 ```
