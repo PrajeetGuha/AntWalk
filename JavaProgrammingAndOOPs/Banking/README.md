@@ -52,17 +52,17 @@ Methods -
 - If the answer is "NO" then it should exit out and display the login page.
 
 ## Implementation
-** The class diagram is given below - **
+**The class diagram is given below -**
 ![class-diagram](https://user-images.githubusercontent.com/58776463/215268456-32da744b-bdf6-40df-b9aa-0e0fd7672444.png)
 
 Account class has 2 subclasses.
 - CurrentAccount(with minimum balance 1000)
 - SavingsAccount(with no minimum balance)
 
-** The workflow diagram is given below - **
+**The workflow diagram is given below -**
 ![Start the app](https://user-images.githubusercontent.com/58776463/215273519-0cd4ff36-e327-42b0-9977-d3f9bf335e70.png)
 
-** Output in the terminal - **
+**Output in the terminal -**
 ```
 Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
@@ -453,3 +453,5 @@ GoodByee!! Have a great day.
 
 PS C:\Users\RICK\Documents\AntWalk\Banking>
 ```
+
+Thank you. Have a nice day!! 😃
