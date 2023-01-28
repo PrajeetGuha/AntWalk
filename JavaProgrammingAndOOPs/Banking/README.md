@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 3
 
 ## Objective
 To create a terminal-based banking application.
