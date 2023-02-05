@@ -1,6 +1,6 @@
 # Assignment 7
 
-[Click Here](https://prajeetguha.github.io/AntWalk/) to go the static website hosted for the assignment code.
+[Click Here](https://prajeetguha.github.io/AntWalk/) to go the static website hosted for the assignment code. (NOTE: If you open the link in new tab, it may ot trigger the prompt, so please reload the page. Could not find a way to resolve these issue. 😅)
 
 ## Objective
 
