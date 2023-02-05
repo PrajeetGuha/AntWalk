@@ -23,6 +23,7 @@ CREATE TABLE Professor(
 );
 
 -- DESCRIPTION OF TABLE
+
 DESC Professor;
 DESC Subject;
 DESC Course;
@@ -43,6 +44,7 @@ insert into professor values(101,'Raj',30,'M','42,Vasant Villa Road','raj42@gmai
 insert into professor values(102,'Titas',23,'F','12,Bondi Nagar','titas58@gmail.com',1003);
 
 -- SEE THE TABLE DATA
+
 SELECT * FROM Professor;
 SELECT * FROM Subject;
 SELECT * FROM Course;
