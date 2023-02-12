@@ -78,3 +78,5 @@ Balance: 1900.0
 
 PS C:\Users\RICK\Documents\AntWalk\bankingapp>
 ```
+
+The jar file can be used to locally run the application.
